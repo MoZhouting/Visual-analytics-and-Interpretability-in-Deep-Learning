@@ -83,3 +83,53 @@ https://arxiv.org/ftp/arxiv/papers/1703/1703.00121.pdf（遥感领域相关的�
 第22周
 paper：visualizing residual networks
 per-pixel feedback for improving semantic segmentation
+第23周
+understanding deep learning requires rethinking generalization（https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx）
+How convolutional neural network see the world - A survey of convolutional neural network visualization methods(2018 4月)
+第24周
+Teaching meaningful explanation
+第25周
+Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks （2018 network dissection的后续工作）
+Comparing deep neural networks against humans: object recognition when the signal gets weaker
+interacting with predictions:visual inspection of black-box machine learning model
+Beyond Sparsity: Tree Regularization of Deep Models for Interpretability
+Why should I Trust you Explaining the predictions of any classifier.
+striving for simplicity:The all convolutional net
+第26周
+Why do deep convolutional networks generalize so poorly to small image transformations?
+（CNN在带有微小图像变换的识别中(泛化)表现远不及人类——这与其体系结构忽略了经典采样定理的事实有关）
+第27周
+Understanding Batch Normalization（2018）
+Interpret Neural Networks by Identifying Critical Data Routing Paths (2018 )
+第28周
+Deep Learning: A Bayesian Perspective
+Deep Learning: Generalization Requires Deep Compositional Feature Space Design
+A survey of methods for explaining black box
+第29周
+Correspondence of Deep Neural Networks and the Brain for Visual Textures
+Revisiting the Importance of Individual Units in CNNs via Ablation
+Improving Transferability of Adversarial Examples with Input Diversity(2018 ECCV)
+第30周
+real time image saliency for black box classifier
+第31周
+A deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading
+Interactive Classification for Deep Learning Interpretation（cvpr 2018）
+Interpretable Convolutional Neural Networks(cvpr 2018 zhangquanshi)
+第32周
+Detecting Adversarial Examples Based on Steganalysis
+unsurpervised representation learning with deep convolutional generative adversarial networks
+第33周
+分类问题参考以下两篇论文
+Benchmark analysis of popular ImageNet classification deep CNN architectures
+Why Do Deep Neural Networks Still Not Recognize These Images?: A Qualitative Analysis on Failure Cases of ImageNet Classification
+第34周
+《Evaluating Feature Importance Estimates》 [google Brain]（2018）
+第35周
+对抗方法综述论文Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
+A Review of Image Recognition with Deep Convolutional Neural Network 
+第36周
+the history began from alexnet：A comprehensive survey on deep learning approaches
+第37周
+interpreting neural network classifications with  variational dropout saliency maps （NIPS）
+第38周
+Visual analytics for explainable deep leatning（liushixia）
